@@ -26,7 +26,7 @@ This project recreates the clean and elegant login screen from Instagram using *
    ```bash
    git clone https://github.com/Hardiii/instagram_ui_flutter.git
    cd instagram_ui_flutter
-2. Run the app:
-  flutter pub get
-  flutter run
+   ## Run The app
+   flutter pub get
+   flutter run 
 
